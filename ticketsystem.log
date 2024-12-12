@@ -1,0 +1,870 @@
+Dec 04, 2024 10:20:12 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 04, 2024 10:20:13 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 04, 2024 10:20:14 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 04, 2024 10:20:15 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 04, 2024 10:20:16 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 04, 2024 10:20:17 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 4 - Ticket is - null
+Dec 04, 2024 10:20:17 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 3 - Ticket is - null
+Dec 04, 2024 10:20:17 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 04, 2024 10:20:18 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 04, 2024 10:20:19 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 04, 2024 10:20:21 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Ticket pool is full. Vendor 2 is waiting.
+Dec 04, 2024 10:20:21 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 5 - Ticket is - null
+Dec 04, 2024 10:20:21 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 4 - Ticket is - null
+Dec 04, 2024 10:20:21 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 04, 2024 10:20:22 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 04, 2024 10:20:23 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 5 - Ticket is - null
+Dec 04, 2024 10:20:23 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 4 - Ticket is - null
+Dec 04, 2024 10:20:24 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 3 - Ticket is - null
+Dec 04, 2024 10:20:24 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 2 - Ticket is - null
+Dec 04, 2024 10:20:25 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 1 - Ticket is - null
+Dec 04, 2024 10:20:25 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 0 - Ticket is - null
+Dec 04, 2024 10:24:33 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 04, 2024 10:24:34 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 04, 2024 10:24:35 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 04, 2024 10:24:36 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Ticket pool is full. Vendor 1 is waiting.
+Dec 04, 2024 10:24:36 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 2 - Ticket is - null
+Dec 04, 2024 10:24:36 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 1 - Ticket is - null
+Dec 04, 2024 10:24:36 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 04, 2024 10:24:37 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 04, 2024 10:24:38 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Ticket pool is full. Vendor 2 is waiting.
+Dec 04, 2024 10:24:38 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 2 - Ticket is - null
+Dec 04, 2024 10:24:38 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 1 - Ticket is - null
+Dec 04, 2024 10:24:38 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 04, 2024 10:24:39 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 04, 2024 10:24:40 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Ticket pool is full. Vendor 1 is waiting.
+Dec 04, 2024 10:24:40 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 2 - Ticket is - null
+Dec 04, 2024 10:24:40 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 1 - Ticket is - null
+Dec 04, 2024 10:24:40 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 04, 2024 10:24:41 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 04, 2024 10:24:42 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Ticket pool is full. Vendor 2 is waiting.
+Dec 04, 2024 10:24:42 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 2 - Ticket is - null
+Dec 04, 2024 10:24:42 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 1 - Ticket is - null
+Dec 04, 2024 10:24:42 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 04, 2024 10:24:43 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 04, 2024 10:24:44 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Ticket pool is full. Vendor 2 is waiting.
+Dec 04, 2024 10:24:44 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 2 - Ticket is - null
+Dec 04, 2024 10:24:44 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 1 - Ticket is - null
+Dec 04, 2024 10:24:44 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 05, 2024 8:41:47 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 05, 2024 8:41:48 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 05, 2024 8:41:49 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 05, 2024 8:41:50 AM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 1 is waiting.
+Dec 05, 2024 8:41:50 AM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 2 - Ticket is - null
+Dec 05, 2024 8:41:50 AM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 1 - Ticket is - null
+Dec 05, 2024 8:41:50 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 05, 2024 8:41:51 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 05, 2024 8:41:52 AM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 05, 2024 8:41:52 AM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 2 - Ticket is - null
+Dec 05, 2024 8:41:52 AM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 1 - Ticket is - null
+Dec 05, 2024 8:41:52 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 05, 2024 8:41:53 AM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 1 - Ticket is - null
+Dec 05, 2024 8:41:53 AM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 0 - Ticket is - null
+Dec 05, 2024 8:41:53 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 05, 2024 8:41:54 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 05, 2024 8:41:55 AM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 1 - Ticket is - null
+Dec 05, 2024 8:41:55 AM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 0 - Ticket is - null
+Dec 06, 2024 4:13:23 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 06, 2024 4:13:24 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 06, 2024 4:13:25 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 06, 2024 4:13:26 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 06, 2024 4:13:27 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 06, 2024 4:13:28 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 4 - Ticket is - null
+Dec 06, 2024 4:13:28 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 3 - Ticket is - null
+Dec 06, 2024 4:13:28 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 06, 2024 4:13:29 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 06, 2024 4:13:30 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 06, 2024 4:13:31 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 06, 2024 4:13:32 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 06, 2024 4:13:33 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 7 - Ticket is - null
+Dec 06, 2024 4:13:33 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 6 - Ticket is - null
+Dec 06, 2024 4:13:34 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 5 - Ticket is - null
+Dec 06, 2024 4:13:34 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 4 - Ticket is - null
+Dec 06, 2024 4:13:35 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 3 - Ticket is - null
+Dec 06, 2024 4:13:35 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 2 - Ticket is - null
+Dec 06, 2024 4:13:36 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 1 - Ticket is - null
+Dec 06, 2024 4:13:36 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 0 - Ticket is - null
+Dec 08, 2024 2:07:12 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 08, 2024 2:07:13 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 08, 2024 2:07:14 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 08, 2024 2:07:15 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 08, 2024 2:07:16 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 08, 2024 2:07:17 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 08, 2024 2:07:18 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 08, 2024 2:07:19 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 08, 2024 2:07:20 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 08, 2024 2:07:21 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 08, 2024 2:07:22 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 9 - Ticket is - null
+Dec 08, 2024 2:07:22 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 8 - Ticket is - null
+Dec 08, 2024 2:07:22 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 08, 2024 2:07:23 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 08, 2024 2:07:24 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 08, 2024 2:07:25 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 08, 2024 2:07:26 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 08, 2024 2:07:26 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 11 - Ticket is - null
+Dec 08, 2024 2:07:26 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 10 - Ticket is - null
+Dec 08, 2024 2:07:27 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 08, 2024 2:07:28 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 08, 2024 2:07:29 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 08, 2024 2:07:29 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 11 - Ticket is - null
+Dec 08, 2024 2:07:29 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 10 - Ticket is - null
+Dec 08, 2024 2:07:29 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 08, 2024 2:07:30 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 08, 2024 2:07:31 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 08, 2024 2:07:31 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 11 - Ticket is - null
+Dec 08, 2024 2:07:31 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 10 - Ticket is - null
+Dec 08, 2024 2:07:31 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 08, 2024 2:07:32 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 08, 2024 2:07:33 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 11 - Ticket is - null
+Dec 08, 2024 2:07:33 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 10 - Ticket is - null
+Dec 10, 2024 5:12:36 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:37 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:38 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:39 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:40 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:41 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:42 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:43 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:44 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:45 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:46 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:47 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:49 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:50 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:51 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:52 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:53 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:54 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:55 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:56 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:57 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:58 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:12:59 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:00 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:01 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:02 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:03 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:04 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:05 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:06 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:07 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:08 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:09 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:10 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:11 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:12 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:13 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:14 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:15 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:16 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:17 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:18 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:19 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:20 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:21 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:22 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:23 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:24 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:25 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:26 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:27 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 1 is waiting.
+Dec 10, 2024 5:13:27 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 49 - Ticket is - null
+Dec 10, 2024 5:13:27 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 48 - Ticket is - null
+Dec 10, 2024 5:13:27 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 5:13:28 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 5:13:29 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 5:13:29 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 49 - Ticket is - null
+Dec 10, 2024 5:13:29 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 48 - Ticket is - null
+Dec 10, 2024 5:13:29 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:30 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:31 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 1 is waiting.
+Dec 10, 2024 5:13:31 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 49 - Ticket is - null
+Dec 10, 2024 5:13:31 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 48 - Ticket is - null
+Dec 10, 2024 5:13:31 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 5:13:32 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 5:13:33 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 5:13:33 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 49 - Ticket is - null
+Dec 10, 2024 5:13:33 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 48 - Ticket is - null
+Dec 10, 2024 5:13:33 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:34 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 5:13:35 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 1 is waiting.
+Dec 10, 2024 5:13:35 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 49 - Ticket is - null
+Dec 10, 2024 5:13:35 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 48 - Ticket is - null
+Dec 10, 2024 5:13:35 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 5:13:36 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 5:13:37 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 5:13:37 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 1 is waiting.
+Dec 10, 2024 10:06:17 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:06:18 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:06:19 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:06:20 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:06:21 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:06:22 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:06:23 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:06:24 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:06:25 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:06:26 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:06:27 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 9 - Ticket is - null
+Dec 10, 2024 10:06:27 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 8 - Ticket is - null
+Dec 10, 2024 10:06:27 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 10, 2024 10:06:28 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 10, 2024 10:06:29 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 10, 2024 10:06:30 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 10, 2024 10:06:31 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 4 is waiting.
+Dec 10, 2024 10:06:31 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 10:06:31 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 3 is waiting.
+Dec 10, 2024 10:06:31 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 11 - Ticket is - null
+Dec 10, 2024 10:06:31 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 10 - Ticket is - null
+Dec 10, 2024 10:06:31 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 3 added a ticket to the pool.
+Dec 10, 2024 10:06:32 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 3 added a ticket to the pool.
+Dec 10, 2024 10:06:33 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 3 is waiting.
+Dec 10, 2024 10:06:33 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 10:06:33 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 4 is waiting.
+Dec 10, 2024 10:06:33 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 11 - Ticket is - null
+Dec 10, 2024 10:06:33 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 10 - Ticket is - null
+Dec 10, 2024 10:06:33 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 10, 2024 10:10:12 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:10:13 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:10:14 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:10:15 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:10:16 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:10:17 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:10:18 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:10:19 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:10:20 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:10:21 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:10:22 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 9 - Ticket is - null
+Dec 10, 2024 10:10:22 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 8 - Ticket is - null
+Dec 10, 2024 10:10:22 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 10, 2024 10:10:23 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 10, 2024 10:10:24 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 10, 2024 10:10:25 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 10, 2024 10:10:26 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 4 is waiting.
+Dec 10, 2024 10:10:26 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 10:10:26 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 3 is waiting.
+Dec 10, 2024 10:10:26 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 11 - Ticket is - null
+Dec 10, 2024 10:10:26 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 10 - Ticket is - null
+Dec 10, 2024 10:10:26 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 3 added a ticket to the pool.
+Dec 10, 2024 10:10:27 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 3 added a ticket to the pool.
+Dec 10, 2024 10:10:28 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 3 is waiting.
+Dec 10, 2024 10:10:28 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 10:10:28 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 4 is waiting.
+Dec 10, 2024 10:10:28 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 11 - Ticket is - null
+Dec 10, 2024 10:10:28 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 10 - Ticket is - null
+Dec 10, 2024 10:10:28 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 10, 2024 10:10:29 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 10, 2024 10:10:30 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 4 is waiting.
+Dec 10, 2024 10:10:30 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 10:10:30 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 3 is waiting.
+Dec 10, 2024 10:10:30 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 11 - Ticket is - null
+Dec 10, 2024 10:10:30 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 10 - Ticket is - null
+Dec 10, 2024 10:10:30 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 3 added a ticket to the pool.
+Dec 10, 2024 10:10:31 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 3 added a ticket to the pool.
+Dec 10, 2024 10:10:32 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 3 is waiting.
+Dec 10, 2024 10:10:32 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 10:10:32 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 4 is waiting.
+Dec 10, 2024 10:10:32 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 11 - Ticket is - null
+Dec 10, 2024 10:10:32 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 10 - Ticket is - null
+Dec 10, 2024 10:10:32 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 10, 2024 10:10:33 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 10, 2024 10:10:34 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 4 is waiting.
+Dec 10, 2024 10:10:34 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 10:10:34 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 3 is waiting.
+Dec 10, 2024 10:24:59 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:25:00 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:25:01 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:25:02 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:25:03 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:25:05 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:25:06 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:25:07 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:25:08 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:25:09 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:25:10 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 9 - Ticket is - Ticket [ticketId=0, event=Spandana1, price=100]
+Dec 10, 2024 10:25:10 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 8 - Ticket is - Ticket [ticketId=1, event=Spandana1, price=100]
+Dec 10, 2024 10:25:10 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 3 added a ticket to the pool.
+Dec 10, 2024 10:25:11 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 3 added a ticket to the pool.
+Dec 10, 2024 10:25:12 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 3 added a ticket to the pool.
+Dec 10, 2024 10:25:13 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 3 added a ticket to the pool.
+Dec 10, 2024 10:25:14 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 3 is waiting.
+Dec 10, 2024 10:25:14 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 4 is waiting.
+Dec 10, 2024 10:25:14 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 10:25:14 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 11 - Ticket is - Ticket [ticketId=2, event=Spandana1, price=100]
+Dec 10, 2024 10:25:14 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 10 - Ticket is - Ticket [ticketId=3, event=Spandana1, price=100]
+Dec 10, 2024 10:25:14 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 10:25:15 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 10:25:16 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 10:25:16 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 4 is waiting.
+Dec 10, 2024 10:25:16 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 3 is waiting.
+Dec 10, 2024 10:25:16 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 11 - Ticket is - Ticket [ticketId=4, event=Spandana1, price=100]
+Dec 10, 2024 10:25:16 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 10 - Ticket is - Ticket [ticketId=5, event=Spandana1, price=100]
+Dec 10, 2024 10:25:16 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 3 added a ticket to the pool.
+Dec 10, 2024 10:25:17 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 3 added a ticket to the pool.
+Dec 10, 2024 10:25:18 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 3 is waiting.
+Dec 10, 2024 10:25:18 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 4 is waiting.
+Dec 10, 2024 10:25:18 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 10:25:18 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 11 - Ticket is - Ticket [ticketId=6, event=Spandana1, price=100]
+Dec 10, 2024 10:25:18 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 10 - Ticket is - Ticket [ticketId=7, event=Spandana1, price=100]
+Dec 10, 2024 10:25:18 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 10:25:19 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 10:25:20 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 10:25:20 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 4 is waiting.
+Dec 10, 2024 10:25:20 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 3 is waiting.
+Dec 10, 2024 10:25:20 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 11 - Ticket is - Ticket [ticketId=8, event=Spandana1, price=100]
+Dec 10, 2024 10:25:20 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 10 - Ticket is - Ticket [ticketId=9, event=Spandana1, price=100]
+Dec 10, 2024 10:25:20 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 3 added a ticket to the pool.
+Dec 10, 2024 10:25:21 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 3 added a ticket to the pool.
+Dec 10, 2024 10:25:22 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 3 is waiting.
+Dec 10, 2024 10:25:22 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 4 is waiting.
+Dec 10, 2024 10:25:22 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 10:47:43 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:47:44 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:47:45 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:47:46 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:47:47 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:47:48 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:47:49 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:47:50 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:47:51 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:47:52 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:47:53 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 9 - Ticket is - Ticket [ticketId=0, event=Spandana1, price=100]
+Dec 10, 2024 10:47:54 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 8 - Ticket is - Ticket [ticketId=1, event=Spandana1, price=100]
+Dec 10, 2024 10:47:55 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 7 - Ticket is - Ticket [ticketId=2, event=Spandana1, price=100]
+Dec 10, 2024 10:47:56 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 6 - Ticket is - Ticket [ticketId=3, event=Spandana1, price=100]
+Dec 10, 2024 10:47:57 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 5 - Ticket is - Ticket [ticketId=4, event=Spandana1, price=100]
+Dec 10, 2024 10:59:15 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:59:16 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:59:17 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:59:18 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:59:19 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:59:20 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:59:21 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:59:22 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:59:23 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:59:24 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 10:59:25 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 9 - Ticket is - Ticket [ticketId=0, event=Spandana1, price=100]
+Dec 10, 2024 10:59:25 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 8 - Ticket is - Ticket [ticketId=1, event=Spandana1, price=100]
+Dec 10, 2024 10:59:25 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 10:59:26 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 10:59:27 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 10:59:28 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 10:59:29 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 10:59:29 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 11 - Ticket is - Ticket [ticketId=2, event=Spandana1, price=100]
+Dec 10, 2024 10:59:29 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 10 - Ticket is - Ticket [ticketId=3, event=Spandana1, price=100]
+Dec 10, 2024 10:59:29 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 10:59:30 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 10:59:31 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 10:59:31 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 11 - Ticket is - Ticket [ticketId=4, event=Spandana1, price=100]
+Dec 10, 2024 10:59:31 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 10 - Ticket is - Ticket [ticketId=5, event=Spandana1, price=100]
+Dec 10, 2024 10:59:31 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 10:59:32 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 10:59:33 PM com.example.ticket_booking_system.TicketPool addTicket
+WARNING: Ticket pool is full. Vendor 2 is waiting.
+Dec 10, 2024 10:59:33 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 11 - Ticket is - Ticket [ticketId=6, event=Spandana1, price=100]
+Dec 10, 2024 10:59:33 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 10 - Ticket is - Ticket [ticketId=7, event=Spandana1, price=100]
+Dec 10, 2024 10:59:33 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 10:59:34 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 10:59:35 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 11 - Ticket is - Ticket [ticketId=8, event=Spandana1, price=100]
+Dec 10, 2024 10:59:35 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 10 - Ticket is - Ticket [ticketId=9, event=Spandana1, price=100]
+Dec 10, 2024 11:04:51 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 11:04:52 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 11:04:53 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 11:04:54 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 11:04:55 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 10, 2024 11:04:56 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 4 - Ticket is - Ticket [ticketId=0, event=Spandana1, price=100]
+Dec 10, 2024 11:04:56 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 3 - Ticket is - Ticket [ticketId=1, event=Spandana1, price=100]
+Dec 10, 2024 11:04:56 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 11:04:57 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 11:04:58 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 11:04:59 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 11:05:00 PM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 2 added a ticket to the pool.
+Dec 10, 2024 11:05:01 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 7 - Ticket is - Ticket [ticketId=2, event=Spandana1, price=100]
+Dec 10, 2024 11:05:01 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 6 - Ticket is - Ticket [ticketId=3, event=Spandana1, price=100]
+Dec 10, 2024 11:05:02 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 5 - Ticket is - Ticket [ticketId=4, event=Spandana1, price=100]
+Dec 10, 2024 11:05:02 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 4 - Ticket is - Ticket [ticketId=3, event=Spandana2, price=100]
+Dec 10, 2024 11:05:03 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 3 - Ticket is - Ticket [ticketId=4, event=Spandana2, price=100]
+Dec 10, 2024 11:05:03 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 2 - Ticket is - Ticket [ticketId=5, event=Spandana2, price=100]
+Dec 10, 2024 11:05:04 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 1 - Ticket is - Ticket [ticketId=6, event=Spandana2, price=100]
+Dec 10, 2024 11:05:04 PM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 0 - Ticket is - Ticket [ticketId=7, event=Spandana2, price=100]
+Dec 11, 2024 6:33:12 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:13 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:14 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:15 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:16 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:17 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:18 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:19 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:20 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:21 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:22 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:23 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:24 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:25 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:26 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:27 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:28 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:29 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:30 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:31 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:32 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:33 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:34 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:35 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:36 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 1 added a ticket to the pool.
+Dec 11, 2024 6:33:38 AM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 3 retrieved a ticket from the pool. - current size is - 24 - Ticket is - Ticket [ticketId=0, event=sdf1, price=123]
+Dec 11, 2024 6:33:38 AM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 4 retrieved a ticket from the pool. - current size is - 23 - Ticket is - Ticket [ticketId=1, event=sdf1, price=123]
+Dec 11, 2024 6:33:38 AM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 2 retrieved a ticket from the pool. - current size is - 22 - Ticket is - Ticket [ticketId=2, event=sdf1, price=123]
+Dec 11, 2024 6:33:38 AM com.example.ticket_booking_system.TicketPool removeTicket
+INFO: Customer 1 retrieved a ticket from the pool. - current size is - 21 - Ticket is - Ticket [ticketId=3, event=sdf1, price=123]
+Dec 11, 2024 6:33:38 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:39 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:40 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:41 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:42 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:43 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:44 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:45 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:46 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:47 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:48 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:49 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:50 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:51 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:52 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:53 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:54 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:55 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
+Dec 11, 2024 6:33:56 AM com.example.ticket_booking_system.TicketPool addTicket
+INFO: Vendor 4 added a ticket to the pool.
